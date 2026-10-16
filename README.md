@@ -6,7 +6,7 @@
 **16 个假人分担 16 种音符盒音色**（每种音色 25 个声调 F#3~F#5），
 自动演奏 **NBS（Note Block Studio）** 音乐。假人生成方式参照
 [tanyaofei/minecraft-fakeplayer](https://github.com/tanyaofei/minecraft-fakeplayer)，
-演奏方式与彗星客户端（Comet Client）的 Notebot 一致：**假人转头注视并真实右键点击音符盒**，
+演奏方式与彗星客户端（Metoer Client）的 Notebot 一致：**假人转头注视并真实右键点击音符盒**，
 声音与音符粒子全部由原版方块产生。
 
 ## 特性
@@ -256,5 +256,5 @@ display:
 ## 参考项目
 
 - [tanyaofei/minecraft-fakeplayer](https://github.com/tanyaofei/minecraft-fakeplayer) — 假人生成方式
-- [Comet Client Notebot](https://github.com/cubk/Comet) — 假人点击音符盒的演奏方式
+- [Meteor Client Notebot](https://github.com/MeteorDevelopment/meteor-client/tree/master/src/main/java/meteordevelopment/meteorclient/utils/notebot) — 假人点击音符盒的演奏方式
 - [OpenNoteBlockStudio](https://github.com/OpenNBS/NoteBlockStudio) — NBS 文件格式
